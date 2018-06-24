@@ -41,7 +41,7 @@ If they just want raffle for whant movie to watch, they can simplily type sugges
 
 ### APIs and Web Service Requirements
 
-I think i will need to use the OMDb API data base. In the data base I can get all the information I need.
+I think i will need to use the themoviedb API data base. In the data base I can get all the information I need.
 
 ### Python Package Requirements
 
